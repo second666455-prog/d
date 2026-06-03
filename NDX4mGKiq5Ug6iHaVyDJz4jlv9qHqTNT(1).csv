@@ -1,0 +1,13 @@
+Car_ID,Brand,Model_Year,Mileage_KM,Fuel_Type,Transmission,Price
+201,Toyota,2018,85000.0,Petrol,Automatic,420000
+202,Hyundai,2020,,Gas,Manual,380000
+203,Fiat,2015,120000.0,Petrol,Manual,190000
+204,Kia,2019,65000.0,Petrol,Automatic,490000
+205,Toyota,2017,,Petrol,Automatic,390000
+206,Hyundai,2016,140000.0,Diesel,Manual,280000
+207,Renault,2021,35000.0,Petrol,Manual,340000
+208,Chevrolet,2014,180000.0,Gas,Manual,150000
+209,Kia,2022,15000.0,,Automatic,620000
+210,Toyota,2019,70000.0,Petrol,Automatic,460000
+211,Fiat,2018,,Petrol,Manual,230000
+212,Hyundai,2021,25000.0,Petrol,Automatic,550000
